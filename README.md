@@ -8,3 +8,4 @@ Using ChatGPT is easy! Simply input your prompt into the model, and it will gene
 	2.	Training your own models using the pre-trained models as a starting point
 	3.	Fine-tuning the pre-trained models for your specific use case
 
+# [course link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
